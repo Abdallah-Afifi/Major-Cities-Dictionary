@@ -1,0 +1,951 @@
+Kandahar,31.37,65.43,Afghanistan
+Kabul,34.32,69.1,Afghanistan
+Tirana,41.2,19.49,Albania
+Tiaret,35.22,1.19,Algeria
+Algiers,36.46,3.13,Algeria
+Andorra la Vella,42.3,1.3,Andorra
+Huambo,12.46,15.44,Angola
+Luanda,8.5,13.14,Angola
+St. John's,17.07,61.51,Antigua and Barbuda
+Salta,24.47,65.25,Argentina
+San Miguel de Tucum√°n,26.49,65.13,Argentina
+C√≥rdoba,31.25,64.11,Argentina
+Mendoza,32.53,68.49,Argentina
+Rosario,32.57,60.4,†Argentina
+Buenos Aires,34.36,58.23,Argentina
+Bah√≠a Blanca,38.43,62.16,Argentina
+San Carlos de Bariloche,41.09,71.18,†Argentina
+Trelew,43.15,65.18,†Argentina
+Comodoro Rivadavia,45.52,67.29,†Argentina
+R√≠o Gallegos,51.38,69.13,†Argentina
+Ushuaia,54.48,68.18,†Argentina
+Yerevan,40.11,44.31,†Armenia
+Darwin,12.27,130.5,†Australia
+Cairns,16.56,145.47,†Australia
+Townsville,19.15,146.49,†Australia
+Port Hedland,20.19,118.36,†Australia
+Rockhampton,23.23,150.31,†Australia
+Brisbane,27.28,153.02,†Australia
+Gold Coast,28.01,153.24,†Australia
+Kingston,29.04,167.58,†Australia
+Perth,31.57,115.52,†Australia
+Mandurah,32.32,115.43,†Australia
+Newcastle,32.55,151.45,†Australia
+Sydney,33.52,151.13,†Australia
+Wollongong,34.26,150.53,†Australia
+Adelaide,34.56,138.36,†Australia
+Canberra,35.18,149.07,†Australia
+Melbourne,37.49,144.58,†Australia
+Geelong,38.09,144.21,†Australia
+Hobart,42.53,147.2,†Australia
+Graz,47.04,15.26,†Austria
+Innsbruck,47.16,11.23,†Austria
+Salzburg,47.48,13.02,†Austria
+Vienna,48.13,16.22,†Austria
+Linz,48.18,14.17,†Austria
+Stepanakert,39.49,46.45,†Azerbaijan
+Baku,40.24,49.53,†Azerbaijan
+Nassau,25.04,77.2,†Bahamas
+Manama,26.13,50.35,†Bahrain
+Chittagong,22.22,91.48,†Bangladesh
+Dhaka,23.42,90.23,†Bangladesh
+Bridgetown,13.06,59.37,†Barbados
+Minsk,53.54,27.34,†Belarus
+Charleroi,50.24,4.26,†Belgium
+Brussels,50.51,4.21,†Belgium
+Ghent,51.03,3.44,†Belgium
+Antwerp,51.13,4.24,†Belgium
+Belmopan,17.15,88.46,†Belize
+Belize City,17.3,88.11,†Belize
+Cotonou,6.22,2.26,†Benin
+Porto-Novo,6.3,2.36,†Benin
+Thimphu,27.28,89.39,†Bhutan
+La Paz,16.3,68.09,†Bolivia
+Santa Cruz de la Sierra,17.48,63.1,†Bolivia
+Sucre,19.03,65.15,†Bolivia
+Sarajevo,43.51,18.21,†Bosnia and Herzegovina
+Francistown,21.1,27.31,†Botswana
+Gaborone,24.39,25.55,†Botswana
+Macap√°,0.02,51.04,†Brazil
+Bel√©m,1.27,48.3,†Brazil
+Palmas,10.11,48.2,†Brazil
+Aracaju,10.55,37.03,†Brazil
+Sinop,11.51,55.39,†Brazil
+Salvador,12.58,38.29,†Brazil
+Ilh√©us,14.47,39.03,†Brazil
+Cuiab√°,15.36,56.06,†Brazil
+Bras√≠lia,15.48,47.52,†Brazil
+Goi√¢nia,16.4,49.15,†Brazil
+Governador Valadares,18.51,41.56,†Brazil
+Uberl√¢ndia,18.55,48.17,†Brazil
+Belo Horizonte,19.55,43.56,†Brazil
+S√£o Lu√≠s,2.32,44.18,†Brazil
+Boa Vista,2.49,60.4,†Brazil
+Vit√≥ria,20.19,40.2,†Brazil
+Campo Grande,20.28,54.37,†Brazil
+S√£o Jos√© do Rio Preto,20.48,49.23,†Brazil
+Ribeir√£o Preto,21.11,47.48,†Brazil
+Juiz de Fora,21.46,43.21,†Brazil
+Po√ßos de Caldas,21.47,46.34,†Brazil
+Araraquara,21.48,48.11,†Brazil
+Bauru,22.19,49.04,†Brazil
+Assis,22.4,50.25,†Brazil
+Campinas,22.54,47.03,†Brazil
+Rio de Janeiro,22.55,43.12,†Brazil
+S√£o Jos√© dos Campos,23.11,45.53,†Brazil
+S√£o Paulo,23.33,46.38,†Brazil
+Curitiba,25.25,49.15,†Brazil
+Florian√≥polis,27.5,48.25,†Brazil
+Manaus,3.06,60.01,†Brazil
+Sobral,3.4,40.14,†Brazil
+Fortaleza,3.43,38.33,†Brazil
+Fernando de Noronha,3.51,32.25,†Brazil
+Porto Alegre,30.02,51.14,†Brazil
+Pelotas,31.46,52.21,†Brazil
+Chu√≠,33.41,53.27,†Brazil
+Teresina,5.06,42.48,†Brazil
+Imperatriz,5.32,47.29,†Brazil
+Natal,5.47,35.12,†Brazil
+Jo√£o Pessoa,7.05,34.5,†Brazil
+Juazeiro do Norte,7.12,39.2,†Brazil
+Campina Grande,7.14,35.53,†Brazil
+Recife,8.03,34.54,†Brazil
+Caruaru,8.17,35.59,†Brazil
+Porto Velho,8.46,63.54,†Brazil
+Garanhuns,8.53,36.3,†Brazil
+Petrolina,9.24,40.3,†Brazil
+Macei√≥,9.4,35.44,†Brazil
+Rio Branco,9.58,67.49,†Brazil
+Bandar Seri Begawan,4.53,114.57,†Brunei
+Sofia,42.42,23.2,†Bulgaria
+Bobo-Dioulasso,11.11,4.17,†Burkina Faso
+Ouagadougou,12.21,1.32,†Burkina Faso
+Bujumbura,3.23,29.22,†Burundi
+Phnom Penh,11.33,104.55,†Cambodia
+Siem Reap,13.22,103.52,†Cambodia
+Yaound√©,3.52,11.31,†Cameroon
+Douala,4.03,9.42,†Cameroon
+Windsor,42.17,83,†Canada
+Toronto,43.42,79.24,†Canada
+Yarmouth,43.5,66.07,†Canada
+Halifax,44.51,63.12,†Canada
+Saint John,45.17,66.05,†Canada
+Ottawa,45.25,75.41,†Canada
+Montreal,45.3,73.34,†Canada
+Fredericton,45.57,66.4,†Canada
+Moncton,46.08,64.46,†Canada
+Charlottetown,46.14,63.09,†Canada
+North Bay,46.18,79.27,†Canada
+Sudbury,46.29,81.01,†Canada
+Sault Ste. Marie,46.32,84.21,†Canada
+Quebec City,46.49,71.13,†Canada
+St. John's,47.34,52.42,†Canada
+Thunder Bay,48.23,89.15,†Canada
+Victoria,48.26,123.22,†Canada
+Vancouver,49.15,123.06,†Canada
+Kelowna,49.53,119.3,†Canada
+Winnipeg,49.54,97.08,†Canada
+Regina,50.27,104.36,†Canada
+Kamloops,50.41,120.2,†Canada
+Calgary,51.03,114.04,†Canada
+Saskatoon,52.08,106.41,†Canada
+Edmonton,53.32,113.3,†Canada
+Grande Prairie,55.1,118.48,†Canada
+Fort McMurray,56.44,111.23,†Canada
+Whitehorse,60.43,135.03,†Canada
+Yellowknife,62.27,114.24,†Canada
+Iqaluit,63.45,68.31,†Canada
+Tuktoyaktuk,69.27,133.02,†Canada
+Grise Fiord,76.25,82.54,†Canada
+Eureka,79.59,85.56,†Canada
+Alert,82.3,62.2,†Canada
+Praia,14.55,23.31,†Cape Verde
+Bangui,4.22,18.35,†Central African Republic
+N'Djamena,12.07,15.03,†Chad
+Moundou,8.34,16.05,†Chad
+Arica,18.29,70.2,†Chile
+Iquique,20.13,70.09,†Chile
+Calama,22.28,68.56,†Chile
+Antofagasta,23.39,70.24,†Chile
+Hanga Roa,27.09,109.26,†Chile
+Copiap√≥,27.22,70.2,†Chile
+La Serena,29.54,71.15,†Chile
+Valpara√≠so,33.03,71.37,†Chile
+Santiago,33.27,70.4,†Chile
+Concepci√≥n,36.5,73.03,†Chile
+Temuco,38.45,72.4,†Chile
+Valdivia,39.49,73.15,†Chile
+Puerto Montt,41.28,72.56,†Chile
+Puerto Ais√©n,45.24,72.41,†Chile
+Coihaique,45.34,72.04,†Chile
+Punta Arenas,53.1,70.56,†Chile
+Puerto Williams,54.56,67.37,†Chile
+Puerto Toro,55.05,67.05,†Chile
+Cartagena,10.24,75.3,†Colombia
+Barranquilla,10.58,74.48,†Colombia
+Santiago de Cali,3.25,76.31,†Colombia
+Bogot√°,4.36,74.05,†Colombia
+Medell√≠n,6.14,75.35,†Colombia
+C√∫cuta,7.54,72.3,†Colombia
+Moroni,11.45,43.12,†Comoros
+Alajuela,10.01,84.13,†Costa Rica
+Liberia,10.38,85.26,†Costa Rica
+San Jos√©,9.56,84.05,†Costa Rica
+Puntarenas,9.58,84.5,†Costa Rica
+Lim√≥n,9.59,83.02,†Costa Rica
+Split,43.3,16.26,†Croatia
+Zagreb,45.49,15.59,†Croatia
+Santiago de Cuba,20.01,75.49,†Cuba
+Havana,23.08,82.23,†Cuba
+Nicosia,35.1,33.22,†Cyprus
+Prague,50.05,14.25,†Czech Republic
+Lubumbashi,11.4,27.28,†Democratic Republic of the Congo
+Kinshasa,4.2,15.19,†Democratic Republic of the Congo
+Odense,55.24,10.23,†Denmark
+Esbjerg,55.29,8.27,†Denmark
+Copenhagen,55.41,12.34,†Denmark
+Aarhus,56.09,10.13,†Denmark
+Qaqortoq,60.43,46.02,†Denmark
+T√≥rshavn,62.01,6.46,†Denmark
+Nuuk (Godth√•b),64.11,51.44,†Denmark
+Qaanaaq,7.28,69.14,†Denmark
+Upernavik,72.47,56.09,†Denmark
+Nord,81.36,16.4,†Denmark
+Djibouti,11.35,43.09,†Djibouti
+Roseau,15.18,61.23,†Dominica
+Santo Domingo,18.28,69.57,†Dominican Republic
+Quito,0.15,78.35,†Ecuador
+Guayaquil,2.11,79.53,†Ecuador
+Luxor,25.41,32.39,†Egypt
+Suez,29.58,32.33,†Egypt
+Cairo,30.03,31.14,†Egypt
+Alexandria,31.12,29.55,†Egypt
+Port Said,31.15,32.17,†Egypt
+San Salvador,13.41,89.11,†El Salvador
+Malabo,3.45,8.47,†Equatorial Guinea
+Asmara,15.2,38.56,†Eritrea
+Tartu,58.23,26.43,†Estonia
+Tallinn,59.26,24.45,†Estonia
+Addis Ababa,9.02,38.44,†Ethiopia
+Palikir,6.55,158.1,†Federated States of Micronesia
+Weno,7.27,151.51,†Federated States of Micronesia
+Labasa,16.26,179.22,†Fiji
+Rabi Island,16.3,180,†Fiji
+Suva,18.08,178.27,†Fiji
+Helsinki,60.1,24.56,†Finland
+Espoo,60.12,24.39,†Finland
+Vantaa,60.18,25.02,†Finland
+Turku,60.27,22.16,†Finland
+Lahti,60.59,25.39,†Finland
+Tampere,61.3,23.46,†Finland
+Jyv√§skyl√§,62.15,25.45,†Finland
+Kuopio,62.54,27.41,†Finland
+Vaasa,63.06,21.37,†Finland
+Oulu,65.01,25.28,†Finland
+Pudasj√§rvi,65.22,27,†Finland
+Kemi,65.44,24.34,†Finland
+Tornio,65.51,24.09,†Finland
+Kuusamo,65.58,29.11,†Finland
+Rovaniemi,66.3,25.44,†Finland
+Kemij√§rvi,66.43,27.26,†Finland
+Utsjoki,69.54,27.01,†Finland
+Nuorgam,70.05,27.53,†Finland
+Mamoudzou,12.47,45.14,†France
+Mata-Utu,13.17,176.11,†France
+Fort-de-France,14.36,61.05,†France
+Basse-Terre,16,61.44,†France
+Papeete,17.32,149.34,†France
+Saint-Denis,20.53,55.27,†France
+Noum√©a,22.17,166.27,†France
+Cayenne,4.55,52.2,†France
+Marseille,43.18,5.22,†France
+Cannes,43.33,7.01,†France
+Toulouse,43.36,1.27,†France
+Nice,43.42,7.16,†France
+Bordeaux,44.5,0.35,†France
+Lyon,45.46,4.51,†France
+Saint-Pierre,46.47,56.11,†France
+Nantes,47.13,1.33,†France
+Orl√©ans,47.54,1.55,†France
+Brest,48.23,4.29,†France
+Strasbourg,48.35,7.45,†France
+Paris,48.51,2.21,†France
+Rouen,49.26,1.06,†France
+Le Havre,49.29,0.06,†France
+Calais,50.57,1.51,†France
+Libreville,0.23,9.27,†Gabon
+Brikama,13.16,16.39,†Gambia
+Serekunda,13.26,16.4,†Gambia
+Banjul,13.27,16.35,†Gambia
+Tbilisi,41.43,44.47,†Georgia
+Tskhinvali,42.14,43.58,†Georgia
+Sukhumi,43,41.01,†Georgia
+Munich,48.08,11.34,†Germany
+Stuttgart,48.47,9.11,†Germany
+Frankfurt am Main,50.07,8.41,†Germany
+Cologne,50.56,6.58,†Germany
+Dresden,51.02,13.44,†Germany
+D√ºsseldorf,51.14,6.47,†Germany
+Leipzig,51.2,12.23,†Germany
+Hannover,52.22,9.43,†Germany
+Berlin,52.31,13.23,†Germany
+Bremen,53.05,8.48,†Germany
+Hamburg,53.34,10,†Germany
+Kiel,54.2,10.08,†Germany
+Sekondi-Takoradi,4.55,1.46,†Ghana
+Accra,5.33,0.12,†Ghana
+Kumasi,6.4,1.37,†Ghana
+Tamale,9.24,0.51,†Ghana
+Heraklion,35.2,25.08,†Greece
+Athena,37.58,23.43,†Greece
+Halkida,38.28,23.36,†Greece
+Thessaloniki,40.39,22.54,†Greece
+St. George's,12.03,61.45,†Grenada
+Guatemala City,14.37,90.32,†Guatemala
+Quetzaltenango,14.5,91.31,†Guatemala
+Nz√©r√©kor√©,7.45,8.49,†Guinea
+Conakry,9.31,13.43,†Guinea
+Bissau,11.51,15.34,†Guinea-Bissau
+Georgetown,6.48,58.1,†Guyana
+Port-au-Prince,18.32,72.2,†Haiti
+Tegucigalpa,14.06,87.13,†Honduras
+Budapest,47.28,19.03,†Hungary
+Reykjav√≠k,64.08,21.56,†Iceland
+Akureyri,65.41,18.06,†Iceland
+√çsafj√∂r√∞ur,66.05,23.08,†Iceland
+Port Blair,11.4,92.46,†India
+Bangalore,12.58,77.34,†India
+Chennai (Madras),13.05,80.16,†India
+Hyderabad,17.22,78.29,†India
+Visakhapatnam,17.41,83.13,†India
+Pune,18.31,73.51,†India
+Mumbai (Bombay),18.59,72.5,†India
+Nagpur,21.08,79.05,†India
+Surat,21.1,72.5,†India
+Kolkata (Calcutta),22.34,88.22,†India
+Ahmedabad,23.02,72.35,†India
+Agartala,23.5,91.16,†India
+Kulpahar,25.19,79.38,†India
+Shillong,25.34,91.53,†India
+Patna,25.37,85.09,†India
+Guwahati,26.11,91.44,†India
+Kanpur,26.28,80.2,†India
+Tezpur,26.38,92.48,†India
+Siliguri,26.43,88.26,†India
+Lucknow,26.51,80.57,†India
+Jaipur,26.56,75.49,†India
+Agra,27.11,78.01,†India
+Gangtok,27.2,88.37,†India
+Dibrugarh,27.29,95,†India
+New Delhi,28.37,77.13,†India
+Chandigarh,30.45,76.47,†India
+Ludhiana,30.55,75.51,†India
+Shimla,31.06,77.1,†India
+Amritsar,31.38,74.52,†India
+Srinagar,34.05,74.47,†India
+Trivandrum,8.29,76.57,†India
+Kochi,9.58,76.17,†India
+Pontianak,0.01,109.2,†Indonesia
+Pekanbaru,0.32,101.27,†Indonesia
+Padang,0.57,100.21,†Indonesia
+Balikpapan,1.16,116.5,†Indonesia
+Jayapura,2.32,140.43,†Indonesia
+Palembang,2.59,104.45,†Indonesia
+Medan,3.35,98.4,†Indonesia
+Ambon,3.42,128.1,†Indonesia
+Makassar,5.08,119.25,†Indonesia
+Banda Aceh,5.33,95.19,†Indonesia
+Jakarta,6.12,106.48,†Indonesia
+Bogor,6.36,106.48,†Indonesia
+Bandung,6.55,107.37,†Indonesia
+Semarang,6.58,110.25,†Indonesia
+Surabaya,7.16,112.45,†Indonesia
+Yogyakarta,7.48,110.22,†Indonesia
+Malang,7.59,112.37,†Indonesia
+Denpasar,8.39,115.13,†Indonesia
+Isfahan,32.38,51.39,†Iran
+Tehran,35.42,51.25,†Iran
+Mashhad,36.18,59.36,†Iran
+Tabriz,38.04,46.18,†Iran
+Basra,30.3,47.49,†Iraq
+Baghdad,33.2,44.26,†Iraq
+Kirkuk,35.28,44.19,†Iraq
+Erbil,36.11,44.01,†Iraq
+Mosul,36.2,43.08,†Iraq
+Cork,51.54,8.28,†Ireland
+Dublin,53.21,6.16,†Ireland
+Eilat,29.33,34.57,†Israel
+Jerusalem,31.47,35.13,†Israel
+Tel Aviv,32.04,34.47,†Israel
+Catania,37.3,15.05,†Italy
+Palermo,38.07,13.22,†Italy
+Messina,38.11,15.33,†Italy
+Cagliari,39.15,9.03,†Italy
+Naples,40.51,14.16,†Italy
+Rome,41.54,12.3,†Italy
+Florence,43.47,11.15,†Italy
+Bologna,44.3,11.21,†Italy
+Turin,45.04,7.42,†Italy
+Venice,45.26,12.2,†Italy
+Milan,45.28,9.11,†Italy
+Abidjan,5.19,4.02,†Ivory Coast
+Yamoussoukro,6.49,5.17,†Ivory Coast
+Kingston,17.59,76.48,†Jamaica
+Naha,26.13,127.41,†Japan
+Fukuoka,33.35,130.24,†Japan
+Hiroshima,34.23,132.27,†Japan
+K≈çbe,34.41,135.12,†Japan
+Osaka,34.42,135.3,†Japan
+Kyoto,35.01,135.46,†Japan
+Nagoya,35.11,136.54,†Japan
+Yokohama,35.27,139.38,†Japan
+Kawasaki,35.31,139.42,†Japan
+Tokyo,35.41,139.42,Japan
+Sendai,38.16,140.52,Japan
+Sapporo,43.04,141.21,Japan
+Nemuro,43.2,145.35,†Japan
+Amman,31.56,35.56,†Jordan
+Almaty,43.17,76.54,†Kazakhstan
+Astana,51.1,71.26,†Kazakhstan
+Nairobi,1.17,36.49,†Kenya
+Mombasa,4.03,39.4,†Kenya
+South Tarawa,1.26,173,†Kiribati
+Kuwait City,29.22,47.59,†Kuwait
+Bishkek,42.52,74.37,†Kyrgyzstan
+Vientiane,17.58,102.36,†Laos
+Riga,56.57,24.06,†Latvia
+Beirut,33.53,35.31,†Lebanon
+Maseru,29.19,27.29,†Lesotho
+Monrovia,6.19,10.48,†Liberia
+Sabha,27.02,14.26,†Libya
+Benghazi,32.07,20.04,†Libya
+Tripoli,32.54,13.11,†Libya
+Vaduz,47.08,9.31,†Liechtenstein
+Vilnius,54.41,25.17,†Lithuania
+Luxembourg,49.37,6.07,†Luxembourg
+Skopje,42,21.26,†Macedonia
+Antananarivo,18.56,47.31,†Madagascar
+Lilongwe,13.59,33.47,†Malawi
+Blantyre,15.47,35,†Malawi
+Johor Bahru,1.29,103.44,†Malaysia
+Kuching,1.34,110.21,†Malaysia
+Malacca Town,2.12,102.15,†Malaysia
+Kuala Lumpur,3.09,101.42,†Malaysia
+Miri,4.24,114,†Malaysia
+Ipoh,4.36,101.04,†Malaysia
+George Town,5.25,100.19,†Malaysia
+Kota Kinabalu,5.58,116.06,†Malaysia
+Alor Setar,6.07,100.22,†Malaysia
+Kota Bharu,6.08,102.15,†Malaysia
+Mal√©,4.11,73.31,†Maldives
+Bamako,12.39,8,†Mali
+Koulikoro,12.52,7.34,†Mali
+Timbuktu,16.47,3.01,†Mali
+Birkirkara,35.54,14.28,†Malta
+Valletta,35.54,14.31,†Malta
+Majuro,7.04,171.16,†Marshall Islands
+Nouakchott,18.06,15.57,†Mauritania
+Port Louis,20.1,57.3,†Mauritius
+Tapachula,14.54,92.16,†Mexico
+Acapulco,16.52,99.53,†Mexico
+Puebla,19.03,98.13,†Mexico
+Veracruz,19.11,96.09,†Mexico
+¬†Mexico City,19.26,99.08,†Mexico
+Quer√©taro,20.35,100.24,†Mexico
+Guadalajara,20.4,103.21,†Mexico
+Puerto Vallarta,20.4,105.16,†Mexico
+Zapopan,20.43,103.24,†Mexico
+M√©rida,20.58,89.37,†Mexico
+Le√≥n,21.07,101.41,†Mexico
+Canc√∫n,21.1,86.51,†Mexico
+Aguascalientes,21.53,102.18,†Mexico
+San Luis Potos√≠,22.09,100.51,†Mexico
+Tampico,22.15,97.52,†Mexico
+Cabo San Lucas,22.53,109.55,†Mexico
+Durango,24.01,104.4,†Mexico
+Culiac√°n,24.48,107.23,†Mexico
+Torre√≥n,25.32,103.27,†Mexico
+Monterrey,25.4,100.18,†Mexico
+Chihuahua,28.38,106.05,†Mexico
+Hermosillo,29.06,110.57,†Mexico
+Ciudad Ju√°rez,31.44,106.29,†Mexico
+Ensenada,31.51,116.36,†Mexico
+Tijuana,32.32,117.02,†Mexico
+Mexicali,32.4,115.28,†Mexico
+Tiraspol,46.51,29.38,†Moldova
+Chi≈üinƒÉu,47,28.55,†Moldova
+Monaco,43.44,7.25,†Monaco
+Ulaanbaatar,47.55,106.55,†Mongolia
+Podgorica,42.26,19.16,†Montenegro
+El Aai√∫n,27.09,13.12,†Morocco
+Marrakech,31.38,8.01,†Morocco
+Casablanca,33.32,7.35,†Morocco
+Rabat,34.02,6.5,†Morocco
+Maputo,25.58,32.35,†Mozambique
+Yangon,16.48,96.09,†Myanmar
+Naypyidaw,19.45,96.06,†Myanmar
+Windhoek,22.34,17.05,†Namibia
+Yaren District,0.33,166.55,†Nauru
+Kathmandu,27.42,85.2,†Nepal
+Willemstad,12.07,68.56,†Netherlands
+Oranjestad,12.31,70.02,†Netherlands
+Maastricht,50.51,5.41,†Netherlands
+Rotterdam,51.56,4.29,†Netherlands
+The Hague,52.05,4.19,†Netherlands
+Utrecht,52.06,5.07,†Netherlands
+Leiden,52.1,4.29,†Netherlands
+Enschede,52.13,6.54,†Netherlands
+Amsterdam,52.22,4.54,†Netherlands
+Haarlem,52.23,4.38,†Netherlands
+Groningen,53.13,6.33,†Netherlands
+Alofi,19.03,169.55,†New Zealand
+Avarua,21.12,159.46,†New Zealand
+Auckland,36.5,174.44,†New Zealand
+Hamilton,37.47,175.17,†New Zealand
+Hastings,39.39,176.5,†New Zealand
+Nelson,41.16,173.17,†New Zealand
+Wellington,41.17,174.47,†New Zealand
+Christchurch,43.32,172.37,†New Zealand
+Dunedin,45.52,170.3,†New Zealand
+Invercargill,46.25,168.21,†New Zealand
+Managua,12.08,86.15,†Nicaragua
+Chinandega,12.37,87.09,†Nicaragua
+Niamey,13.31,2.06,†Niger
+Kano,12,8.31,†Nigeria
+Port Harcourt,4.45,7,†Nigeria
+Benin City,6.19,5.36,†Nigeria
+Enugu,6.27,7.31,†Nigeria
+Lagos,6.27,3.24,†Nigeria
+Ibadan,7.24,3.55,†Nigeria
+Abuja,9.04,7.29,†Nigeria
+Kaesong,37.58,126.33,†North Korea
+Pyongyang,39.01,125.44,†North Korea
+Wonsan,39.09,127.27,†North Korea
+Chongjin,41.48,129.47,†North Korea
+Kristiansand,58.1,8,†Norway
+Sarpsborg,59.17,11.12,†Norway
+Oslo,59.57,10.45,†Norway
+Bergen,60.23,5.2,†Norway
+Lillehammer,61.08,10.26,†Norway
+Trondheim,63.26,10.24,†Norway
+Stj√∏rdal,63.29,11.1,†Norway
+Bod√∏,67.18,14.33,†Norway
+Narvik,68.25,17.34,†Norway
+Troms√∏,69.41,18.57,†Norway
+Vads√∏,70.05,29.44,†Norway
+Hammerfest,70.4,23.41,†Norway
+Longyearbyen,78.13,15.39,†Norway
+Ny-√Ölesund,78.55,11.56,†Norway
+Salalah,17.01,54.05,†Oman
+Muscat,23.37,58.36,†Oman
+Karachi,24.52,67.01,†Pakistan
+Hyderabad,25.23,68.22,†Pakistan
+Multan,30.12,71.28,†Pakistan
+Faisalabad,31.25,73.05,†Pakistan
+Lahore,31.33,74.21,†Pakistan
+Rawalpindi,33.36,73.02,†Pakistan
+Islamabad,33.43,73.04,†Pakistan
+Peshawar,34.01,71.35,†Pakistan
+Koror City,7.22,134.29,†Palau
+Melekeok,7.29,134.36,†Palau
+Ngerulmud,7.30'2,134.36'2,†Palau
+Gaza,31.31,34.27,†Palestine
+Panama City,8.59,79.31,†Panama
+Port Moresby,9.31,147.13,†Papua New Guinea
+Asunci√≥n,25.17,57.38,†Paraguay
+Ciudad del Este,25.31,54.37,†Paraguay
+¬†Macau,22.1,113.33,†People's Republic of China
+¬†Hong Kong,22.17,114.1,†People's Republic of China
+Shenzhen,22.33,114.06,†People's Republic of China
+Nanning,22.49,108.19,†People's Republic of China
+Dongguan,23.02,113.43,†People's Republic of China
+Guangzhou,23.08,113.16,†People's Republic of China
+Kunming,25.04,102.41,†People's Republic of China
+Shigatse,29.16,88.53,†People's Republic of China
+Chongqing,29.34,106.34,†People's Republic of China
+Lhasa,29.39,91.06,†People's Republic of China
+Hangzhou,30.15,120.1,†People's Republic of China
+Wuhan,30.35,114.17,†People's Republic of China
+Chengdu,30.4,104.04,†People's Republic of China
+Shanghai,31.12,121.3,†People's Republic of China
+Nanjing,32.03,118.46,†People's Republic of China
+Xi'an,34.16,108.54,†People's Republic of China
+Zhengzhou,34.46,113.39,†People's Republic of China
+Lanzhou,36.02,103.48,†People's Republic of China
+Qingdao,36.04,120.23,†People's Republic of China
+Handan,36.36,114.29,†People's Republic of China
+Xining,36.38,101.46,†People's Republic of China
+Jinan,36.4,116.59,†People's Republic of China
+Taiyuan,37.52,112.34,†People's Republic of China
+Shijiazhuang,38.03,114.3,†People's Republic of China
+Dalian,38.55,121.38,†People's Republic of China
+Tianjin,39.08,117.11,†People's Republic of China
+Beijing,39.55,116.23,†People's Republic of China
+Shenyang,41.48,123.24,†People's Republic of China
+√úr√ºmqi,43.5,87.36,†People's Republic of China
+Changchun,43.54,125.12,†People's Republic of China
+Harbin,45.45,126.38,†People's Republic of China
+Lima,12.03,77.02,†Peru
+Ayacucho,13.1,74.13,†Peru
+Cusco,13.32,71.58,†Peru
+Arequipa,16.24,71.32,†Peru
+Iquitos,3.44,73.15,†Peru
+Trujillo,8.07,79.02,†Peru
+Cebu City,10.17,123.54,†Philippines
+Iloilo City,10.43,122.34,†Philippines
+Makati,14.33,121.02,†Philippines
+Manila,14.35,120.58,†Philippines
+Quezon City,14.38,121.02,†Philippines
+Zamboanga City,6.54,122.04,†Philippines
+Davao City,7.04,125.36,†Philippines
+Tagbilaran,9.39,123.51,†Philippines
+Krak√≥w,50.04,19.56,†Poland
+Warsaw,52.14,21.01,†Poland
+Gda≈Ñsk,54.22,18.38,†Poland
+Gdynia,54.3,18.33,†Poland
+Funchal,32.39,16.55,†Portugal
+Ponta Delgada,37.49,25.45,†Portugal
+Angra do Hero√≠smo,38.29,27.13,†Portugal
+Horta,38.35,28.43,†Portugal
+Lisbon,38.43,9.08,†Portugal
+Flores Island,39.28,31.14,†Portugal
+Porto,41.1,8.37,†Portugal
+Doha,25.17,51.32,†Qatar
+Kaohsiung,22.38,120.16,†Republic of China (Taiwan)
+Tainan,22.59,120.11,†Republic of China (Taiwan)
+Taichung,24.09,120.4,†Republic of China (Taiwan)
+Taipei,25.02,121.38,†Republic of China (Taiwan)
+Brazzaville,4.16,15.18,†Republic of the Congo
+Craiova,44.2,23.49,†Romania
+Bucharest,44.26,26.06,†Romania
+Cluj-Napoca,46.46,23.35,†Romania
+Vladivostok,43.08,131.54,†Russia
+Sochi,43.35,39.43,†Russia
+Simferopol,44.57,34.06,†Russia
+Krasnodar,45.02,38.58,†Russia
+Rostov-on-Don,47.14,39.42,†Russia
+Volgograd,48.42,44.31,†Russia
+Saratov,51.32,46.01,†Russia
+Voronezh,51.4,39.13,†Russia
+Irkutsk,52.19,104.18,†Russia
+Petropavlovsk-Kamchatsky,53.01,158.39,†Russia
+Samara,53.12,50.08,†Russia
+Tolyatti,53.31,49.25,†Russia
+Kaliningrad,54.43,20.31,†Russia
+Ufa,54.45,55.58,†Russia
+Omsk,54.59,73.22,†Russia
+Novosibirsk,55.01,82.56,†Russia
+Chelyabinsk,55.09,61.23,†Russia
+Moscow,55.45,37.37,†Russia
+Kazan,55.47,49.08,†Russia
+Krasnoyarsk,56.01,93.04,†Russia
+Bratsk,56.07,101.36,†Russia
+Nizhny Novgorod,56.2,44,†Russia
+Izhevsk,56.5,53.11,†Russia
+Yekaterinburg,56.5,60.35,†Russia
+Yaroslavl,57.37,39.51,†Russia
+Perm,58,56.19,†Russia
+Magadan,59.34,150.48,†Russia
+Saint Petersburg,59.57,30.18,†Russia
+Yakutsk,62.02,129.44,†Russia
+Arkhangelsk,64.32,40.32,†Russia
+Anadyr,64.44,177.31,†Russia
+Verkhoyansk,67.33,133.23,†Russia
+Murmansk,68.58,33.05,†Russia
+Norilsk,69.2,88.13,†Russia
+Kigali,1.57,30.04,†Rwanda
+Basseterre,17.18,62.44,†Saint Kitts and Nevis
+Castries,14.01,60.59,†Saint Lucia
+Kingstown,13.09,61.14,†Saint Vincent and the Grenadines
+Apia,13.5,171.45,†Samoa
+San Marino,43.56,12.27,†San Marino
+S√£o Tom√©,0.2,6.41,†S√£o Tom√© and Pr√≠ncipe
+Mecca,21.25,39.49,†Saudi Arabia
+Jeddah,21.33,39.1,†Saudi Arabia
+Medina,24.28,39.36,†Saudi Arabia
+Riyadh,24.38,46.43,†Saudi Arabia
+Dammam,26.17,50.12,†Saudi Arabia
+Dakar,14.42,17.27,†Senegal
+Thi√®s,14.47,16.55,†Senegal
+Pristina,42.4,21.1,†Serbia
+Belgrade,44.49,20.28,†Serbia
+Novi Sad,45.15,19.51,†Serbia
+Victoria,4.37,55.27,†Seychelles
+Freetown,8.29,13.14,†Sierra Leone
+Singapore,1.17,103.5,†Singapore
+Bratislava,48.09,17.07,†Slovakia
+Ljubljana,46.03,14.31,†Slovenia
+Honiara,9.28,159.49,†Solomon Islands
+Kismayo,0.21,42.33,†Somalia
+Mogadishu,2.02,45.21,†Somalia
+Hargeisa,9.34,44.04,†Somalia
+Polokwane,23.54,29.27,†South Africa
+Nelspruit,25.28,30.59,†South Africa
+Pretoria,25.45,28.11,†South Africa
+Mafikeng,25.51,25.38,†South Africa
+Johannesburg,26.12,28.03,†South Africa
+Kimberley,28.45,24.46,†South Africa
+Bloemfontein,29.07,26.13,†South Africa
+Pietermaritzburg,29.37,30.23,†South Africa
+Durban,29.53,31.03,†South Africa
+Bhisho,32.51,27.26,†South Africa
+Cape Town,33.56,18.25,†South Africa
+Port Elizabeth,33.57,25.36,†South Africa
+Busan,35.11,129.05,†South Korea
+Daegu,35.52,128.36,†South Korea
+Incheon,37.29,126.38,†South Korea
+Seoul,37.34,126.59,†South Korea
+Juba,4.51,31.36,†South Sudan
+Las Palmas de Gran Canaria,28.09,15.25,†Spain
+Santa Cruz de Tenerife,28.28,16.15,†Spain
+M√°laga,36.43,4.25,†Spain
+Sevilla,37.23,5.59,†Spain
+Ibiza,38.59,1.26,†Spain
+Valencia,39.28,0.23,†Spain
+Palma,39.34,2.39,†Spain
+Madrid,40.23,3.43,†Spain
+Barcelona,41.23,2.11,†Spain
+Lleida,41.37,0.38,†Spain
+Zaragoza,41.39,0.53,†Spain
+Bilbao,43.15,2.55,†Spain
+Sri Jayawardenapura-Kotte,6.55,79.53,†Sri Lanka
+Colombo,6.56,79.51,†Sri Lanka
+Kandy,7.18,80.38,†Sri Lanka
+Batticaloa,7.43,81.42,†Sri Lanka
+Khartoum,15.38,32.32,†Sudan
+Omdurman,15.39,32.29,†Sudan
+Paramaribo,5.52,55.1,†Suriname
+Mbabane,26.19,31.08,†Swaziland
+Lobamba,26.25,31.1,†Swaziland
+Manzini,26.29,31.22,†Swaziland
+Malm√∂,55.35,13.02,†Sweden
+Gothenburg,57.42,11.58,†Sweden
+Norrk√∂ping,58.36,16.12,†Sweden
+Stockholm,59.2,18.04,†Sweden
+Uppsala,59.51,17.39,†Sweden
+Sundsvall,62.24,17.19,†Sweden
+√ñstersund,63.11,14.4,†Sweden
+√ñrnsk√∂ldsvik,63.17,18.44,†Sweden
+Ume√•,63.5,20.16,†Sweden
+Skellefte√•,64.45,20.57,†Sweden
+Pite√•,65.2,21.3,†Sweden
+Lule√•,65.35,22.09,†Sweden
+Boden,65.5,21.43,†Sweden
+Haparanda,65.5,24.08,†Sweden
+Kiruna,67.51,20.13,†Sweden
+Geneva,46.12,6.09,†Switzerland
+Lausanne,46.31,6.38,†Switzerland
+Bern,46.57,7.27,†Switzerland
+Z√ºrich,47.22,8.33,†Switzerland
+Basel,47.34,7.36,†Switzerland
+Damascus,33.31,36.18,†Syria
+Latakia,35.31,35.47,†Syria
+Dushanbe,38.32,68.47,†Tajikistan
+Mwanza,2.31,32.54,†Tanzania
+Dodoma,6.1,35.45,†Tanzania
+Zanzibar City,6.1,39.12,†Tanzania
+Dar es Salaam,6.48,39.17,†Tanzania
+Pattaya,12.56,100.53,†Thailand
+Bangkok,13.45,100.28,†Thailand
+Phra Nakhon Si Ayutthaya,14.21,100.34,†Thailand
+Nakhon Ratchasima,14.59,102.06,†Thailand
+Khon Kaen,16.26,102.5,†Thailand
+Udon Thani,17.25,102.45,†Thailand
+Chiang Mai,18.48,99,†Thailand
+Chiang Rai,19.55,99.5,†Thailand
+Hat Yai,7.01,100.28,†Thailand
+Phuket,7.53,98.24,†Thailand
+Surat Thani,9.08,99.2,†Thailand
+Dili,8.33,125.35,†Timor-Leste
+Lom√©,6.08,1.13,†Togo
+Nuku ªalofa,21.08,175.12,†Tonga
+San Fernando,10.17,61.28,†Trinidad and Tobago
+Chaguanas,10.3,61.23,†Trinidad and Tobago
+Port of Spain,10.4,61.31,†Trinidad and Tobago
+Sfax,34.44,10.46,†Tunisia
+Tunis,36.48,10.11,†Tunisia
+Mersin,36.48,34.38,†Turkey
+Adana,37,35.19,†Turkey
+Gaziantep,37.04,37.23,†Turkey
+Konya,37.52,32.29,†Turkey
+ƒ∞zmir,38.26,27.09,†Turkey
+Eskisehir,39.47,30.31,†Turkey
+Ankara,39.56,32.52,†Turkey
+Bursa,40.11,29.03,†Turkey
+Istanbul,41.01,28.57,†Turkey
+Ashgabat,37.56,58.22,†Turkmenistan
+Funafuti,8.31,179.13,†Tuvalu
+Nukulaelae,9.23,179.51,†Tuvalu
+Entebbe,0.03,32.28,†Uganda
+Kampala,0.19,32.35,†Uganda
+Odessa,46.28,30.44,†Ukraine
+Lviv,49.51,24.01,†Ukraine
+Kharkiv,50,36.14,†Ukraine
+Kiev,50.27,30.31,†Ukraine
+Abu Dhabi,24.28,54.22,†United Arab Emirates
+Dubai,25.15,55.18,†United Arab Emirates
+Jamestown,15.55,5.43,†United Kingdom
+The Valley,18.13,63.03,†United Kingdom
+Road Town,18.26,64.37,†United Kingdom
+George Town,19.18,81.23,†United Kingdom
+Cockburn Town,21.28,71.08,†United Kingdom
+Adamstown,25.04,130.06,†United Kingdom
+Hamilton,32.18,64.47,†United Kingdom
+Gibraltar,36.08,5.21,†United Kingdom
+Plymouth,50.22,4.09,†United Kingdom
+Exeter,50.43,3.32,†United Kingdom
+Portsmouth,50.49,1.05,†United Kingdom
+Brighton and Hove,50.5,0.09,†United Kingdom
+Southampton,50.54,1.24,†United Kingdom
+Bath,51.23,2.22,†United Kingdom
+Bristol,51.27,2.35,†United Kingdom
+Cardiff,51.29,3.11,†United Kingdom
+Greenwich,51.29,0.00/W,†United Kingdom
+London,51.3,0.08,†United Kingdom
+Swansea,51.37,3.57,†United Kingdom
+Stanley,51.42,57.52,†United Kingdom
+Oxford,51.45,1.15,†United Kingdom
+Gloucester,51.52,2.14,†United Kingdom
+Cambridge,52.12,0.07,†United Kingdom
+Coventry,52.24,1.31,†United Kingdom
+Birmingham,52.29,1.54,†United Kingdom
+Peterborough,52.35,0.15,†United Kingdom
+Leicester,52.38,1.08,†United Kingdom
+Norwich,52.38,1.18,†United Kingdom
+Nottingham,52.57,1.08,†United Kingdom
+Sheffield,53.23,1.28,†United Kingdom
+Liverpool,53.24,2.59,†United Kingdom
+Manchester,53.28,2.14,†United Kingdom
+Bradford,53.48,1.45,†United Kingdom
+Leeds,53.48,1.33,†United Kingdom
+Douglas,54.09,4.29,†United Kingdom
+Grytviken,54.17,36.3,†United Kingdom
+Belfast,54.36,5.56,†United Kingdom
+Newcastle upon Tyne,54.58,1.37,†United Kingdom
+Glasgow,55.51,4.16,†United Kingdom
+Edinburgh,55.57,3.11,†United Kingdom
+Dundee,56.28,2.58,†United Kingdom
+Aberdeen,57.09,2.07,†United Kingdom
+Inverness,57.28,4.14,†United Kingdom
+Hag√•t√±a,13.29,144.45,†United States
+Dededo,13.31,144.5,†United States
+Pago Pago,14.17,170.42,†United States
+Saipan,15.11,145.45,†United States
+Charlotte Amalie,18.21,64.57,†United States
+San Juan,18.27,66.04,†United States
+Hilo,19.42,155.05,†United States
+Honolulu,21.19,157.5,†United States
+Key West,24.34,81.47,†United States
+Miami,25.47,80.13,†United States
+Tampa,27.57,82.28,†United States
+Orlando,28.25,81.18,†United States
+San Antonio,29.25,98.3,†United States
+Houston,29.46,95.23,†United States
+New Orleans,29.58,90.03,†United States
+Austin,30.15,97.45,†United States
+Jacksonville,30.2,81.4,†United States
+Mobile,30.42,88.03,†United States
+El Paso,31.47,106.25,†United States
+Tucson,32.13,110.56,†United States
+Jackson,32.18,90.11,†United States
+San Diego,32.43,117.1,†United States
+Dallas,32.47,96.48,†United States
+Phoenix,33.27,112.04,†United States
+Birmingham,33.39,86.49,†United States
+Atlanta,33.45,84.23,†United States
+Riverside,33.57,117.24,†United States
+Columbia,34,81.03,†United States
+Los Angeles,34.03,118.15,†United States
+Wilmington,34.13,77.55,†United States
+Santa Barbara,34.26,119.43,†United States
+Little Rock,34.44,92.2,†United States
+Albuquerque,35.07,106.37,†United States
+Memphis,35.07,89.58,†United States
+Charlotte,35.14,80.51,†United States
+Oklahoma City,35.29,97.32,†United States
+Santa Fe,35.4,105.58,†United States
+Raleigh,35.49,78.39,†United States
+Los Alamos,35.53,106.18,†United States
+Knoxville,35.58,83.57,†United States
+Tulsa,36.08,95.56,†United States
+Nashville,36.1,86.47,†United States
+Las Vegas,36.11,115.08,†United States
+Virginia Beach,36.51,75.59,†United States
+Springfield,37.12,93.17,†United States
+Wichita,37.41,97.2,†United States
+San Francisco,37.47,122.25,†United States
+Louisville,38.15,85.46,†United States
+Charleston,38.21,81.38,†United States
+Sacramento,38.33,121.28,†United States
+St. Louis,38.38,90.12,†United States
+Washington,38.54,77.02,†United States
+Cincinnati,39.06,84.31,†United States
+Kansas City,39.06,94.35,†United States
+Dover,39.1,75.32,†United States
+Baltimore,39.17,76.37,†United States
+Reno,39.32,119.49,†United States
+Denver,39.44,104.59,†United States
+Indianapolis,39.46,86.09,†United States
+Forked River,39.48,74.06,†United States
+Philadelphia,39.57,75.1,†United States
+Columbus,39.59,82.59,†United States
+Boulder,40.01,105.17,†United States
+Trenton,40.13,74.46,†United States
+Pittsburgh,40.27,80,†United States
+New York City,40.4,73.56,†United States
+Jersey City,40.43,74.04,†United States
+Salt Lake City,40.45,111.53,†United States
+Lincoln,40.49,96.41,†United States
+Fort Wayne,41.05,85.08,†United States
+Cheyenne,41.09,104.48,†United States
+Cleveland,41.29,81.4,†United States
+Des Moines,41.35,93.37,†United States
+Hartford,41.46,72.4,†United States
+Providence,41.49,71.25,†United States
+Chicago,41.53,87.38,†United States
+Detroit,42.2,83.03,†United States
+Boston,42.21,71.04,†United States
+Buffalo,42.54,78.51,†United States
+Milwaukee,43.03,87.57,†United States
+Rochester,43.1,77.37,†United States
+Concord,43.12,71.32,†United States
+Boise,43.37,116.12,†United States
+Montpelier,44.15,72.34,†United States
+Augusta,44.19,69.47,†United States
+Pierre,44.22,100.2,†United States
+Minneapolis,44.59,93.16,†United States
+Portland,45.31,122.41,†United States
+Helena,46.36,112.02,†United States
+Bismarck,46.49,100.47,†United States
+Seattle,47.37,122.2,†United States
+Adak,51.53,176.39,†United States
+Sitka,57.03,135.2,†United States
+Juneau,58.18,134.25,†United States
+Anchorage,61.13,149.54,†United States
+Fairbanks,64.51,147.43,†United States
+Deadhorse,70.12,148.31,†United States
+Barrow,71.18,156.46,†United States
+Montevideo,34.53,56.11,†Uruguay
+Namangan,41,71.4,†Uzbekistan
+Tashkent,41.16,69.13,†Uzbekistan
+Nukus,42.28,59.36,†Uzbekistan
+Port Vila,17.45,168.18,†Vanuatu
+Vatican City,41.54,12.27,†Vatican City
+Maracay,10.15,67.36,†Venezuela
+Caracas,10.3,66.55,†Venezuela
+Maracaibo,10.39,71.38,†Venezuela
+Puerto Ayacucho,5.4,67.38,†Venezuela
+Ciudad Bol√≠var,8.07,63.33,†Venezuela
+Ho Chi Minh City,10.46,106.41,†Vietnam
+Da Nang,16.04,108.14,†Vietnam
+Hu·∫ø,16.28,107.35,†Vietnam
+Hai Phong,20.51,106.41,†Vietnam
+Hanoi,21.02,105.51,†Vietnam
+Sana'a,15.21,44.12,†Yemen
+Ndola,12.58,28.38,†Zambia
+Lusaka,15.25,28.17,†Zambia
+Livingstone,17.51,25.52,†Zambia
+Harare,17.52,31.02,†Zimbabwe
+Mutare,18.58,32.38,†Zimbabwe
+Gweru,19.27,29.48,†Zimbabwe
+Bulawayo,20.1,28.35,Zimbabwe
